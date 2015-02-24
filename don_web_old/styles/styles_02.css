@@ -1,0 +1,466 @@
+#wrapper {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #666666;
+	text-decoration: none;
+	width: 750px;
+	/*background-color: #ffffff;
+	*/
+	border: 1px solid #999999;
+	/*#e6e5dd; #c5c3b1;
+	*/
+	clear: both;
+	float: none;
+	margin: auto;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+#wrapper_home {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #666666;
+	text-decoration: none;
+	width: 750px;
+	/*background-color: #ffffff;
+	*/
+	border: 1px solid #999999;
+	/*#e6e5dd; #c5c3b1;
+	*/
+	clear: both;
+	float: none;
+	margin: auto;
+	position: relative;
+	overflow: hidden;
+	background-image: url(../images/home.jpg);
+	height: 633px;
+}
+
+#banner {
+	background-image: url(../images/banner_donPollack.gif);
+	height: 77px;
+	border-bottom-style: none;
+	background-repeat: no-repeat;
+	background-position: left -18px;
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-color: #999999;
+	padding-right: 20px;
+	background-color: #FFFFFF;
+	padding-left: 20px;
+}
+#exhibitions .detail {
+	display: block;
+	font-style:normal;
+	float: left;
+	width: 425px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	color: #777777;
+	padding-right: 15px;
+}
+#exhibitions img {
+	margin: 0px;
+}
+.titleExhibPage {
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #333333;
+	text-decoration: none;
+	font-style:normal;
+}
+.titleExhibPage a {
+	text-decoration: none;
+	font-style:normal;
+}
+.titleExhibPage:link {
+	text-decoration: none;
+	color: #333333;
+	font-style: normal;
+}
+.titleExhibPage:hover {
+	color: #666666;
+	text-decoration: none;
+}
+.titleExhibPage:visited {
+	color: #333333;
+	text-decoration: none;
+}
+#exhibitions .detail .detail2:link {
+	text-decoration: none;
+	color:#8e8c72;
+	font-style: italic;
+}
+#exhibitions .detail .detail2:visited {
+	text-decoration: none;
+	color:#8e8c72;
+	font-style: italic;
+}
+#exhibitions .detail .detail2:hover {
+	text-decoration: none;
+	color:#333333;
+	font-style: italic;
+}
+
+#exhibitions {
+	clear: both;
+	float: left;
+	width: 670px;
+	padding-right: 50px;
+	padding-left: 30px;
+}
+#pageName {
+	font-size: 32px;
+	color: #a19f80;
+	text-decoration: none;
+	clear: both;
+	float: left;
+	height: 30px;
+	width: 720px;
+	padding-left: 30px;
+	padding-top: 20px;
+	text-align: left;
+	padding-bottom: 30px;
+}
+#bodycontainer {
+	width: 750px;
+	overflow: auto;
+	float: left;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999999;
+	background-color: #FFFFFF;
+}
+#navs {
+	float: left;
+	height: 17px;
+	width: 720px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999999;
+	vertical-align: bottom;
+}
+#navs a{
+	color: #4a4837;
+	text-decoration: none;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	font-size: 10px;
+	float: right;
+	border-top: 1px solid #999999;
+	border-right: #999999;
+	border-left-color: #999999;
+	border-left-width: 1px;
+	border-left-style: solid;
+	letter-spacing: 0.15em;
+}
+#navs a:hover {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+#navs .active {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+/*#navs {
+	height: 17px;
+	width: 450px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999999;
+	vertical-align: bottom;
+	margin-top: 4px;
+}
+#navs a{
+	color: #4a4837;
+	height: 13px;
+	text-decoration: none;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	font-size: 10px;
+	border-top: 1px solid #999999;
+	border-right: #999999;
+	border-left-color: #999999;
+	border-left-width: 1px;
+	border-left-style: solid;
+	letter-spacing: 0.15em;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+	float: right;
+}
+#navs a:hover {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+#navs a:active {
+	color: #FFFFFF;
+	background-color: #444444;
+}*/
+#wrapper_home #blocktext {
+	float: left;
+	;
+	width: 435px;
+	margin-top: 280px;
+	clear: none;
+	vertical-align: top;
+	margin-left: 155px;
+	color: #626045;
+}
+#wrapper_home #navs .active {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+#wrapper #banner #homelink {
+	float: left;
+	height: 70px;
+	width: 260px;
+	clear: none;
+	vertical-align: bottom;
+}
+#wrapper #banner #navs {
+	float: left;
+	height: 17px;
+	width: 710px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999999;
+	vertical-align: bottom;
+}
+#wrapper #banner  #navs a{
+	color: #4a4837;
+	text-decoration: none;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	font-size: 10px;
+	float: right;
+	border-top: 1px solid #999999;
+	border-right: #999999;
+	border-left-color: #999999;
+	border-left-width: 1px;
+	border-left-style: solid;
+	letter-spacing: 0.15em;
+}
+#wrapper #banner  #navs a:hover {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+#wrapper #banner  #navs .active {
+	color: #FFFFFF;
+	background-color: #444444;
+}
+#wrapper #bodycontainer #footer {
+	clear: both;
+	float: left;
+	height: 20px;
+	width: 440px;
+	overflow: auto;
+	font-size: 9px;
+	color: #999999;
+	padding: 5px 10px 5px 300px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999999;
+	display: block;
+	text-align: left;
+}
+#wrapper #bodycontainer #right #photonavs {
+	float: left;
+	height: 140px;
+	width: 400px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	clear: both;
+	display: block;
+}
+#wrapper #bodycontainer #right #photonavs p {
+	float: left;
+	display: block;
+	clear: both;
+	margin-bottom: 0px;
+}
+#wrapper #bodycontainer #right #photonavs .arrow {
+	float: left;
+}
+#wrapper #bodycontainer #right #photonavs .box{
+	color:#666666;
+	margin: 3px;
+	padding: 2px;
+	float: left;
+	height: 15px;
+	width: 15px;
+	border: 1px solid #999999;
+	clear: none;
+	text-align: center;
+	text-decoration: none;
+}
+#wrapper #bodycontainer #right #photonavs .box a{
+}
+#wrapper #bodycontainer #right #photonavs .box:hover {
+	color: #ffffff;
+	text-decoration: none;
+	border: 1px solid #444444;
+	background-color: #444444;
+}
+#wrapper #left {
+	float: left;
+	width: 210px;
+	padding-top: 100px;
+	padding-right: 35px;
+	padding-left: 35px;
+	position: relative;
+	overflow: auto;
+	text-align: left;
+}
+#wrapper #left a {
+	color: #5b5948;
+	text-decoration: none;
+	font-style: italic;
+	line-height: 18px;
+}
+#wrapper #left a:hover {
+	color: #333333;
+}
+#wrapper #bodycontainer #exhibitionEssay {
+	clear: both;
+	float: left;
+	width: 540px;
+	padding-right: 130px;
+	padding-left: 80px;
+	text-align: left;
+	padding-top: 50px;
+	line-height: 18px;
+	font-size: 11px;
+	text-decoration: none;
+}
+
+#wrapper #bodycontainer #exhibitionEssay a{
+	color: #7d7b61;
+	text-decoration: none;
+	line-height: 18px;
+	font-style:italic;
+}
+#wrapper #bodycontainer #exhibitionEssay a:hover {
+	color: #333333;
+	text-decoration: none;
+	font-style: italic;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #8F8D73;
+	text-decoration: none;
+	font-weight: lighter;
+	padding-left: 10px;
+}
+#wrapper #bodycontainer #pageName h3 {
+	font-size: 26px;
+	font-weight: lighter;
+}
+h2 {
+	font-size: 17px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: lighter;
+	padding-left: 10px;
+	line-height: 19px;
+	text-align: left;
+}
+#wrapper #bodycontainer #right #rightgallery p {
+	font-size: 14px;
+	padding-left: 10px;
+	line-height: 18px;
+}
+#wrapper #right {
+	width: 460px;
+	float: left;
+	padding-top: 20px;
+	position: relative;
+	overflow: visible;
+}
+#wrapper #right #rightphoto {
+	clear: both;
+	float: left;
+	width: 460px;
+}
+#wrapper #right #rightphoto p {
+	text-align: left;
+	width: 360px;
+	margin-left: 55px;
+}
+#wrapper #right #rightgallery {
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 15px;
+	color: #999999;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: bottom;
+}
+#wrapper #right #rightarrows {
+	float: left;
+	width: 80px;
+	padding-left: 50px;
+	height: 30px;
+	padding-top: 5px;
+}
+#wrapper #bodycontainer #exhibitions img {
+}
+#wrapper #bodycontainer #right #rightgallery2 p {
+	font-size: 14px;
+	padding-left: 10px;
+	line-height: 19px;
+	text-align: left;
+}
+#wrapper #banner #logolink {
+	width: 730px;
+	text-align: left;
+}
+#wrapper #bodycontainer #right #readMore {
+	float: left;
+	height: 22px;
+	width: 350px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+	clear: both;
+	display: block;
+	font-size: 11px;
+	font-style: italic;
+	text-decoration: none;
+	text-align: left;
+	color: #7D7B61;
+}
+#wrapper #bodycontainer #right #readMore a {
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	color: #7D7B61;
+}
+
+#wrapper #bodycontainer #right #readMore a:hover {
+	color: #333333;
+	text-decoration: none;
+}
+#wrapper #bodycontainer #exhibitionEssay .secondLine {
+	padding-left: 27px;
+}
+#wrapper #bodycontainer #exhibitionEssay .titleExhibPage_sm {
+	font-size: 14px;
+	font-weight: lighter;
+	color: #333333;
+	text-decoration: none;
+}

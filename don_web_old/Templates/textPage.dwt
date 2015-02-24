@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Don Pollack Paintings</title>
+<!-- TemplateEndEditable -->
+<link href="../styles/styles_02.css" rel="stylesheet" type="text/css" />
+<script type="text/JavaScript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.lengtd,a=MM_preloadImages.arguments; for(i=0; i<a.lengtd; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../images/arrow_right-over.gif')">
+<div id="wrapper">
+  <div id="banner">
+  <div id="logolink"><a href="../index.html"><img src="../images/spacer.gif" width="300" height="60" border="0" /></a> </div>
+    <div id="navs"> <a href="../contact.htm">CONTACT</a
+><a href="http://www.museumintrust.com">MUSEUM IN TRUST.COM </a><a href="../professional.htm">PROFESSIONAL</a><a href="../bibliography.htm">BIBLIOGRAPHY</a><a href="../exhibitions.htm">EXHIBITIONS</a><a href="../biography.htm">BIOGRAPHY</a><a href="http://donpollack.blogspot.com/">BLOG</a>
+        <!--close navs
+-->
+    </div>
+    <!--close banner
+-->
+  </div>
+  <div id="bodycontainer"><!-- TemplateBeginEditable name="bodytext" -->
+    <div id="exhibitionEssay"> <span class="titleExhibPage">Title</span>
+      <p><strong>Subtitle</strong></p>
+      <p>Content<br />
+      </p>
+    </div>
+  <!-- TemplateEndEditable -->
+    <div id="footer">&copy; 2007 DON POLLACK. ALL RIGHTS RESERVED. </div>
+      <!--close bodycontainer
+-->
+  </div><!--close wrapper
+-->
+</div>
+</body>
+</html>
