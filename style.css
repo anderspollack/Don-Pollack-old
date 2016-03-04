@@ -73,12 +73,19 @@ body img {
 	top: 164px;
 	left: 139px;
 	}
+
+#crossing
+	{
+	position: absolute;
+	top: 164px;
+	left: 350px;
+	}
 	
 #cbv
 	{
 	position: absolute;
 	top: 164px;
-	left: 390px;
+	left: 650px;
 	word-spacing: 25px;
 	}
 #bannertext
@@ -95,7 +102,7 @@ body img {
 	{
 	position: absolute;
 	top: 154px;
-	left: 788px;
+	left: 900px;
 	}	
 	
 #numbers
